@@ -1,6 +1,6 @@
-# Connectify
+# Prolink
 
-Connectify is a full-stack social media application designed for seamless user interactions through posts, messaging, and notifications. It offers a dynamic user experience with real-time features and a robust backend.
+Prolink is a full-stack social media application designed for seamless user interactions through posts, messaging, and notifications. It offers a dynamic user experience with real-time features and a robust backend.
 
 ## Features
 
